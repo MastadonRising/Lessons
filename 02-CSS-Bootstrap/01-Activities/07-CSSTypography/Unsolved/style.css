@@ -1,0 +1,11 @@
+.bold{
+    font-weight: bold;
+}
+
+.large{
+    font-size: 24px;
+}
+
+.tall{
+    line-height: 50px;
+}

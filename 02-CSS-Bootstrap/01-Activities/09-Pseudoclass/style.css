@@ -1,0 +1,9 @@
+a:hover { 
+    font-style: italic;
+    font-weight: bold;
+    color: chartreuse;
+}
+a {
+    background-color: darkblue;
+
+}
